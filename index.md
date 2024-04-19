@@ -7,3 +7,8 @@ I didn't change anything important
 ``` javascript
 var name = "help"
 ```
+#### Time for a random checklist!
+- [ ] Learn Code
+- [X] Cry because it's hard
+- [ ] Code Hymnle
+- [ ] Sell it for $1M
